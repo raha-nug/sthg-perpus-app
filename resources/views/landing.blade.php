@@ -49,13 +49,15 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-lg-9 d-none d-lg-block">
-            <a href="#" class="small mr-3"><span class="icon-question-circle-o mr-2"></span> Have a questions?</a> 
+            <a href="#" class="small mr-3"><span class="icon-question-circle-o mr-2"></span> Apakah ada pertanyaan?</a> 
             <a href="#" class="small mr-3"><span class="icon-phone2 mr-2"></span> 10 20 123 456</a> 
-            <a href="#" class="small mr-3"><span class="icon-envelope-o mr-2"></span> info@mydomain.com</a> 
+            <a href="#" class="small mr-3"><span class="icon-envelope-o mr-2"></span> sthg.perpus@gmail.com</a> 
           </div>
-          <div class="col-lg-3 text-right">
-            <a href="login.html" class="small mr-3"><span class="icon-unlock-alt"></span> Log In</a>
-            <a href="register.html" class="small btn btn-primary px-4 py-2 rounded-0"><span class="icon-users"></span> Register</a>
+          <div class="uk-float-left">
+            <form class="uk-search" action="cari" method="post">
+              <input class="uk-search-field" type="text" name="kata" placeholder="Cari">
+              <input type="hidden" name="submit">
+            </form>
           </div>
         </div>
       </div>
@@ -76,20 +78,30 @@
                   <a href="index.html" class="nav-link text-left">Home</a>
                 </li>
                 <li class="has-children">
-                  <a href="about.html" class="nav-link text-left">About Us</a>
+                  <a href="about.html" class="nav-link text-left">Tentang Perpustakaan</a>
                   <ul class="dropdown">
-                    <li><a href="teachers.html">Our Teachers</a></li>
-                    <li><a href="about.html">Our School</a></li>
+                    <li><a href="profil.blade.php">Profil</a></li>
+                    <li><a href="npp.blade.php">Nomor Pokok Perpustakaan</a></li>
+                    <li><a href="visimisi.blade.php">Visi Misi</a></li>
+                    <li><a href="jamlayanan">Jam Layanan</a></li>
+                    <li><a href="tatatertib">Tata Tertib</a></li>
+                  </ul>
+                </li>
+                <li class="has-children">
+                  <a href="admissions.html" class="nav-link text-left">Layanan Online</a>
+                  <ul class="dropdown">
+                    <li><a href="profil.blade.php">Katalog Perpustakaan</a></li>
+                    <li><a href="about.html">Layanan Bebas Pustaka</a></li>
+                    <li><a href="about.html">Layanan Unggah Mandiri Tugas Akhir</a></li>
+                    <li><a href="about.html">Form Usul Buku Baru</a></li>
+                    <li><a href="about.html">Form Kritik dan dan Saran</a></li>
                   </ul>
                 </li>
                 <li>
-                  <a href="admissions.html" class="nav-link text-left">Admissions</a>
+                  <a href="courses.html" class="nav-link text-left">E-Library</a>
                 </li>
                 <li>
-                  <a href="courses.html" class="nav-link text-left">Courses</a>
-                </li>
-                <li>
-                    <a href="contact.html" class="nav-link text-left">Contact</a>
+                    <a href="contact.html" class="nav-link text-left">Kontak</a>
                   </li>
               </ul>                                                                                                                                                                                                                                                                                          </ul>
             </nav>
