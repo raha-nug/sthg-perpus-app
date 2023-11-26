@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>Academics &mdash; Website by Colorlib</title>
+  <title>e-library stgh &mdash; Website Perpus sthg</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -125,11 +125,11 @@
 
     
     <div class="hero-slide owl-carousel site-blocks-cover">
-      <div class="intro-section" style="background-image: url('images/hero_1.jpg');">
+      <div class="intro-section" style="background-image: url('images/sthg1.jpg');">
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
-              <h1>Academics University</h1>
+              <h1>Library STHG Tasikmalaya</h1>
             </div>
           </div>
         </div>
@@ -139,7 +139,7 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
-              <h1>You Can Learn Anything</h1>
+              <h1>STHG Library Kami siap melayani </h1>
             </div>
           </div>
         </div>
