@@ -79,6 +79,12 @@ body {
     text-align: left;
     background-color: #fff;
 }
+.uk-search-field {
+    width: 250px; 
+    padding: 3px; 
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
 [tabindex="-1"]:focus {
     outline: 0 !important;
 }

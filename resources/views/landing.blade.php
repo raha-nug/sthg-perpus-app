@@ -68,7 +68,7 @@
         <div class="d-flex align-items-center">
           <div class="site-logo">
             <a href="index.html" class="d-block">
-              <img src="images/logo.jpg" alt="Image" class="img-fluid">
+              <img src="images/logo_sthg.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
           <div class="mr-auto">
@@ -98,7 +98,7 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="courses.html" class="nav-link text-left">E-Library</a>
+                  <a href="courses.html" class="nav-link text-left">Download</a>
                 </li>
                 <li>
                     <a href="contact.html" class="nav-link text-left">Kontak</a>
@@ -155,7 +155,7 @@
         <div class="row mb-5 justify-content-center text-center">
           <div class="col-lg-4 mb-5">
             <h2 class="section-title-underline mb-5">
-              <span>Why Academics Works</span>
+              <span>Layanan Online</span>
             </h2>
           </div>
         </div>
@@ -167,9 +167,9 @@
                 <span class="flaticon-mortarboard text-white"></span>
               </div>
               <div class="feature-1-content">
-                <h2>Personalize Learning</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit morbi hendrerit elit</p>
-                <p><a href="#" class="btn btn-primary px-4 rounded-0">Learn More</a></p>
+                <h2>Katalog Perpustakaan</h2>
+                <p>adalah sistem katalog atau fasilitas pencarian untuk mempercepat penemuan data katalog untuk mengakses bahan perpustakaan digital dan referensi online lainnya.</p>
+                <p><a href="#" class="btn btn-primary px-4 rounded-0">Cari Referensi</a></p>
               </div>
             </div>
           </div>
@@ -179,9 +179,9 @@
                 <span class="flaticon-school-material text-white"></span>
               </div>
               <div class="feature-1-content">
-                <h2>Trusted Courses</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit morbi hendrerit elit</p>
-                <p><a href="#" class="btn btn-primary px-4 rounded-0">Learn More</a></p>
+                <h2>Layanan Bebas Pustaka</h2>
+                <p>Layanan Bebas Pustaka adalah layanan yang diperuntukkan bagi mahasiswa yang akan melaksanakan yudisium sebagai syarat kelulusan atau wisuda.</p>
+                <p><a href="#" class="btn btn-primary px-4 rounded-0">Masuk</a></p>
               </div>
             </div> 
           </div>
@@ -191,8 +191,8 @@
                 <span class="flaticon-library text-white"></span>
               </div>
               <div class="feature-1-content">
-                <h2>Tools for Students</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit morbi hendrerit elit</p>
+                <h2>E-Resources</h2>
+                <p>e-Resources merupakan bagian layanan perpustakaan digital online (e-Resources) seperti jurnal , ebook, dan karya-karya referensi online lainnya.</p>
                 <p><a href="#" class="btn btn-primary px-4 rounded-0">Learn More</a></p>
               </div>
             </div> 
