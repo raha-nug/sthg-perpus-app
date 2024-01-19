@@ -257,7 +257,7 @@ select {
 [type="reset"],
 [type="submit"],
 button,
-html [type="button"] {
+html [type="button"] { 
     -webkit-appearance: button;
 }
 [type="button"]::-moz-focus-inner,
@@ -2411,7 +2411,7 @@ fieldset:disabled a.btn {
 .btn-primary:hover {
     color: #fff;
     background-color: #ffd700;
-    border-color: #3ca060;
+    border-color: #fafcfb;
 }
 .btn-primary.focus,
 .btn-primary:focus {
@@ -2949,11 +2949,11 @@ fieldset:disabled a.btn {
 }
 .btn-link {
     font-weight: 400;
-    color: #800000;
+    color: #f4eeee;
     background-color: transparent;
 }
 .btn-link:hover {
-    color: #ffd700;
+    color: #f9f9f7;
     text-decoration: underline;
     background-color: transparent;
     border-color: transparent;
@@ -4697,7 +4697,7 @@ input[type="submit"].btn-block {
 }
 .page-link:hover {
     z-index: 2;
-    color: #ffd700;
+    color: #f9f9f5;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6;

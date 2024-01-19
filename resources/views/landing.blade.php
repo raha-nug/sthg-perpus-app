@@ -67,7 +67,7 @@
       <div class="container">
         <div class="d-flex align-items-center">
           <div class="site-logo">
-            <a href="index.html" class="d-block">
+            <a href="#" class="d-block">
               <img src="images/logo_sthg.jpg" alt="Image" class="img-fluid">
             </a>
           </div>
@@ -75,12 +75,12 @@
             <nav class="site-navigation position-relative text-right" role="navigation">
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                 <li class="active">
-                  <a href="index.html" class="nav-link text-left">Home</a>
+                  <a class="nav-link text-left" href="/">Home</a>
                 </li>
                 <li class="has-children">
-                  <a href="about.html" class="nav-link text-left">Tentang Perpustakaan</a>
+                  <a class="nav-link text-left"  href="/">Tentang Perpustakaan</a>
                   <ul class="dropdown">
-                    <li><a href="profil.blade.php">Profil</a></li>
+                    <li><a href="/profil">Profil</a></li>
                     <li><a href="npp.blade.php">Nomor Pokok Perpustakaan</a></li>
                     <li><a href="visimisi.blade.php">Visi Misi</a></li>
                     <li><a href="jamlayanan">Jam Layanan</a></li>
@@ -149,7 +149,7 @@
     
 
     <div></div>
-
+  
     <div class="site-section">
       <div class="container">
         <div class="row mb-5 justify-content-center text-center">
@@ -193,7 +193,7 @@
               <div class="feature-1-content">
                 <h2>E-Resources</h2>
                 <p>e-Resources merupakan bagian layanan perpustakaan digital online (e-Resources) seperti jurnal , ebook, dan karya-karya referensi online lainnya.</p>
-                <p><a href="#" class="btn btn-primary px-4 rounded-0">Learn More</a></p>
+                <p><a href="#" class="btn btn-primary px-4 rounded-0">Cari</a></p>
               </div>
             </div> 
           </div>
@@ -356,14 +356,14 @@
         <div class="row">
           <div class="col-lg-4">
             <h2 class="section-title-underline style-2">
-              <span>About Our University</span>
+              <span>Tentang STHG</span>
             </h2>
           </div>
           <div class="col-lg-8">
             <p class="lead">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem nesciunt quaerat ad reiciendis perferendis voluptate fugiat sunt fuga error totam.</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus assumenda omnis tempora ullam alias amet eveniet voluptas, incidunt quasi aut officiis porro ad, expedita saepe necessitatibus rem debitis architecto dolore? Nam omnis sapiente placeat blanditiis voluptas dignissimos, itaque fugit a laudantium adipisci dolorem enim ipsum cum molestias? Quod quae molestias modi fugiat quisquam. Eligendi recusandae officiis debitis quas beatae aliquam?</p>
             <p><a href="#">Read more</a></p>
-          </div>
+          </div> 
         </div>
       </div>
     </div>
